@@ -1,0 +1,11 @@
+c:\users\keith\documents\visual studio 2017\Projects\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.0\ClassesAndObjects.deps.json
+c:\users\keith\documents\visual studio 2017\Projects\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.0\ClassesAndObjects.runtimeconfig.json
+c:\users\keith\documents\visual studio 2017\Projects\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.0\ClassesAndObjects.runtimeconfig.dev.json
+c:\users\keith\documents\visual studio 2017\Projects\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.0\ClassesAndObjects.dll
+c:\users\keith\documents\visual studio 2017\Projects\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.0\ClassesAndObjects.pdb
+c:\users\keith\documents\visual studio 2017\Projects\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.0\ClassesAndObjects.csprojResolveAssemblyReference.cache
+c:\users\keith\documents\visual studio 2017\Projects\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.0\ClassesAndObjects.csproj.CoreCompileInputs.cache
+c:\users\keith\documents\visual studio 2017\Projects\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.0\ClassesAndObjects.AssemblyInfoInputs.cache
+c:\users\keith\documents\visual studio 2017\Projects\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.0\ClassesAndObjects.AssemblyInfo.cs
+c:\users\keith\documents\visual studio 2017\Projects\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.0\ClassesAndObjects.dll
+c:\users\keith\documents\visual studio 2017\Projects\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.0\ClassesAndObjects.pdb
