@@ -9,3 +9,22 @@ c:\users\keith\documents\visual studio 2017\Projects\ClassesAndObjects\ClassesAn
 c:\users\keith\documents\visual studio 2017\Projects\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.0\ClassesAndObjects.AssemblyInfo.cs
 c:\users\keith\documents\visual studio 2017\Projects\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.0\ClassesAndObjects.dll
 c:\users\keith\documents\visual studio 2017\Projects\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.0\ClassesAndObjects.pdb
+C:\Users\Keith\Source\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.0\ClassesAndObjects.deps.json
+C:\Users\Keith\Source\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.0\ClassesAndObjects.runtimeconfig.json
+C:\Users\Keith\Source\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.0\ClassesAndObjects.runtimeconfig.dev.json
+C:\Users\Keith\Source\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.0\ClassesAndObjects.dll
+C:\Users\Keith\Source\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.0\ClassesAndObjects.pdb
+C:\Users\Keith\Source\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.0\ClassesAndObjects.csprojResolveAssemblyReference.cache
+C:\Users\Keith\Source\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.0\ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\Keith\Source\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.0\ClassesAndObjects.AssemblyInfoInputs.cache
+C:\Users\Keith\Source\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.0\ClassesAndObjects.AssemblyInfo.cs
+C:\Users\Keith\Source\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.0\ClassesAndObjects.dll
+C:\Users\Keith\Source\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.0\ClassesAndObjects.pdb
+C:\Users\Keith\Source\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Keith\Source\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Keith\Source\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Keith\Source\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.0\GradeTest.exe
+C:\Users\Keith\Source\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Keith\Source\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.0\testhost.dll
+C:\Users\Keith\Source\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.0\GradeTest.pdb
+C:\Users\Keith\Source\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.0\ClassesAndObjects.csproj.CopyComplete

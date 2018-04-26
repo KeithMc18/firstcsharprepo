@@ -196,6 +196,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "GradeTest/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/GradeTest.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GradeTest.dll": {}
+        }
       }
     }
   },
@@ -656,10 +666,16 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "GradeTest/1.0.0": {
+      "type": "project",
+      "path": "../GradeTest/GradeTest.csproj",
+      "msbuildProject": "../GradeTest/GradeTest.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "GradeTest >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -670,15 +686,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Keith\\documents\\visual studio 2017\\Projects\\ClassesAndObjects\\ClassesAndObjects\\ClassesAndObjects.csproj",
+      "projectUniqueName": "C:\\Users\\Keith\\Source\\ClassesAndObjects\\ClassesAndObjects\\ClassesAndObjects.csproj",
       "projectName": "ClassesAndObjects",
-      "projectPath": "C:\\Users\\Keith\\documents\\visual studio 2017\\Projects\\ClassesAndObjects\\ClassesAndObjects\\ClassesAndObjects.csproj",
+      "projectPath": "C:\\Users\\Keith\\Source\\ClassesAndObjects\\ClassesAndObjects\\ClassesAndObjects.csproj",
       "packagesPath": "C:\\Users\\Keith\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Keith\\documents\\visual studio 2017\\Projects\\ClassesAndObjects\\ClassesAndObjects\\obj\\",
+      "outputPath": "C:\\Users\\Keith\\Source\\ClassesAndObjects\\ClassesAndObjects\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -698,7 +711,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Keith\\Source\\ClassesAndObjects\\GradeTest\\GradeTest.csproj": {
+              "projectPath": "C:\\Users\\Keith\\Source\\ClassesAndObjects\\GradeTest\\GradeTest.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -723,5 +740,16 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project GradeTest is not compatible with netcoreapp2.0 (.NETCoreApp,Version=v2.0). Project GradeTest supports: uap10.0.10586 (UAP,Version=v10.0.10586)",
+      "libraryId": "GradeTest",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0"
+      ]
+    }
+  ]
 }

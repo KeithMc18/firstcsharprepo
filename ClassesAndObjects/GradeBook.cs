@@ -20,7 +20,6 @@ namespace ClassesAndObjects
             float sum = 0;
             foreach(float grade in grades)
             {
-
                 stats.HighestGrade = Math.Max(grade, stats.HighestGrade);
                 stats.LowestGrade = Math.Min(grade, stats.LowestGrade);
                 sum = sum + grade;

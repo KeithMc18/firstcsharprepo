@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v2.0": {
       "ClassesAndObjects/1.0.0": {
+        "dependencies": {
+          "GradeTest": "1.0.0"
+        },
         "runtime": {
           "ClassesAndObjects.dll": {}
+        }
+      },
+      "GradeTest/1.0.0": {
+        "runtime": {
+          "GradeTest.exe": {}
         }
       }
     }
   },
   "libraries": {
     "ClassesAndObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GradeTest/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

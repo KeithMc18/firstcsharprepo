@@ -13,7 +13,7 @@ namespace ClassesAndObjects
             LowestGrade = float.MaxValue;
         }
 
-       public  float AverageGrade;
+       public float AverageGrade;
        public float HighestGrade;
        public float LowestGrade;
     }
